@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/carousell-frontend-bootcamp/static/css/main.d0753a41.css",
+    "main.js": "/carousell-frontend-bootcamp/static/js/main.6e0bc632.js",
+    "static/media/logo.png": "/carousell-frontend-bootcamp/static/media/logo.e54ce6ab620f8c7135f3.png",
+    "index.html": "/carousell-frontend-bootcamp/index.html",
+    "main.d0753a41.css.map": "/carousell-frontend-bootcamp/static/css/main.d0753a41.css.map",
+    "main.6e0bc632.js.map": "/carousell-frontend-bootcamp/static/js/main.6e0bc632.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0753a41.css",
+    "static/js/main.6e0bc632.js"
+  ]
+}
